@@ -17,4 +17,4 @@ jobs:
         run: yarn install
 
       - name: Build production app
-        run: yarn build && yarn prod
+        run: yarn build
