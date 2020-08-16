@@ -4,7 +4,7 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'Joan Domingo Sallent'
-export const siteTitle = 'Open-source hobby projects'
+export const siteTitle = 'Open-sourced hobby projects'
 
 export default function Layout({ children, home }) {
   return (
